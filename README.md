@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+ My name is Alok, a self-motivated tech enthusiast and an iOS Swift developer. 
+ 
+ - 🌱 I’m currently learning Flutter,Python,Django
+
+You can connect me @ my [Linkedin Profile](https://www.linkedin.com/in/alok-sagar-p-8394b4b4/)
+
+
 <!--
 **alokode/alokode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
